@@ -1,0 +1,13 @@
+# Dependencias básicas
+streamlit>=1.27.0
+
+# Dependencias de LangChain
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-community>=0.0.10
+
+# Para la versión con Ollama
+ollama>=0.1.0
+
+# Para la versión con Groq
+langchain-groq>=0.0.1
